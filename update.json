@@ -1,6 +1,6 @@
 {
     "app_name": "[ZXG] T7 Workshop",
-    "version": "2.0.0",
+    "version": "1.0.1",
     "mandatory": false,
 
     "changelog": [
@@ -18,5 +18,5 @@
 
     "release_date": "2026-05-20",
 
-    "minimum_version": "2.0.0"
+    "minimum_version": "1.0.1"
 }
