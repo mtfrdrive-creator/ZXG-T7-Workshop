@@ -1,0 +1,22 @@
+{
+    "app_name": "[ZXG] T7 Workshop",
+    "version": "1.0.0",
+    "mandatory": false,
+
+    "changelog": [
+        "Nouvelle interface responsive",
+        "Ajout du système multi-langues sécurisé",
+        "Ajout des boutons Steam et Partager",
+        "Ajout de la vérification des mises à jour Workshop",
+        "Optimisation du panneau de détails",
+        "Correction du plein écran et du redimensionnement"
+    ],
+
+    "download_url": "https://github.com/mtfrdrive-creator/ZXG-T7-Workshop/releases/download/v1.0.0/%5BZXG%5D_T7_Workshop.zip",
+
+    "github_repo": "mtfrdrive-creator/ZXG-T7-Workshop",
+
+    "release_date": "2026-05-20",
+
+    "minimum_version": "1.0.0"
+}
